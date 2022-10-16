@@ -1,0 +1,3 @@
+registerModule (ModuleCore)
+
+onLoad

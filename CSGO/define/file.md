@@ -1,0 +1,5 @@
+append
+
+write
+
+read

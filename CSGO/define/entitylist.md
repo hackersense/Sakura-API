@@ -1,0 +1,7 @@
+get_local_player
+
+get_player_by_index
+
+get_entity_by_class_id
+
+get_weapon_by_player
