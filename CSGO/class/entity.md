@@ -12,4 +12,14 @@ set_prop_float
 
 set_prop_bool
 
+get_origin
+
+get_angles
+
 get_render_origin
+
+get_render_angles
+
+set_origin
+
+set_angles
