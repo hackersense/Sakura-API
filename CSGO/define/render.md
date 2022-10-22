@@ -18,8 +18,6 @@ draw_rect
 
 draw_rect_filled
 
-draw_rect_filled_gradient
-
 draw_circle
 
 draw_circle_filled
