@@ -5,3 +5,5 @@ load_script
 unload_script
 
 print_log
+
+is_chat_open
