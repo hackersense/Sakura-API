@@ -25,3 +25,5 @@ draw_circle
 draw_circle_filled
 
 draw_triangle
+
+draw_triangle_filled
