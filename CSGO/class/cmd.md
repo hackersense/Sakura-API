@@ -1,25 +1,25 @@
-command_number
+int command_number
 
-tickcount
+int tickcount
 
-viewangles
+vector viewangles
 
-aimdirection
+vector aimdirection
 
-forwardmove
+float forwardmove
 
-sidemove
+float sidemove
 
-upmove
+float upmove
 
-buttons
+buttons buttons
 
-impulse
+char impulse
 
-weaponselect
+int weaponselect
 
-mousedx
+int mousedx
 
-mousedy
+int mousedy
 
-predicted
+bool predicted
