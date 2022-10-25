@@ -1,15 +1,15 @@
-execute
+void execute(string command)
 
-is_visible
+bool is_visible()
 
-get_int
+int get_int()
 
-get_float
+float get_float()
 
-get_string
+string get_string()
 
-set_int
+void set_int(int val)
 
-set_float
+void set_float(float val)
 
-set_string
+void set_string(string val)
