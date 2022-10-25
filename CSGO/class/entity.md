@@ -1,25 +1,25 @@
-get_prop_int
+int get_prop_int(string table, string var)
 
-get_prop_float
+float get_prop_float(string table, string var)
 
-get_prop_bool
+bool get_prop_bool(string table, string var)
 
-get_prop_string
+string get_prop_string(string table, string var)
 
-set_prop_int
+void set_prop_int(string table, string var, int val)
 
-set_prop_float
+void set_prop_float(string table, string var, float val)
 
-set_prop_bool
+void set_prop_bool(string table, string var, bool val)
 
-get_origin
+vector get_origin()
 
-get_angles
+vector get_angles()
 
-get_render_origin
+vector get_render_origin()
 
-get_render_angles
+vector get_render_angles()
 
-set_origin
+void set_origin(vector origin)
 
-set_angles
+void set_angles(vector angles)
