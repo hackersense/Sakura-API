@@ -1,5 +1,5 @@
-bot
+bool bot
 
-name
+string name()
 
-steam_id
+string steam_id()
