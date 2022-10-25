@@ -1,13 +1,13 @@
-is_empty
+bool is_empty()
 
-can_fire
+bool can_fire()
 
-is_non_aim
+bool is_non_aim()
 
-can_double_tap
+bool can_double_tap()
 
-get_name
+string get_name
 
-get_inaccuracy
+float get_inaccuracy
 
-get_spread
+float get_spread
