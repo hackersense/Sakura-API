@@ -26,6 +26,10 @@ quick_peek
 
 edge_jump
 
+jump_bug
+
+long_jump
+
 fake_duck
 
 slow_motion
