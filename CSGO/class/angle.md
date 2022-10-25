@@ -1,15 +1,15 @@
-pitch
+float pitch
 
-yaw
+float yaw
 
-roll
+float roll
 
-length
+void length()
 
-length_sqr
+void length_sqr()
 
-is_zero
+bool is_zero()
 
-is_valid
+bool is_valid()
 
-normalize
+void normalize()
