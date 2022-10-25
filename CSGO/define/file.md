@@ -1,5 +1,5 @@
-append
+string append(string path, string data)
 
-write
+string write(string path, string data)
 
-read
+string read(string path)
