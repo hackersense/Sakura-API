@@ -1,15 +1,15 @@
-get_bool
+bool get_bool(const char* keyName)
 
-get_int
+int get_int(const char* keyName)
 
-get_float
+float get_float(const char* keyName)
 
-get_string
+string get_string(const char* keyName)
 
-set_bool
+void set_bool(const char* keyName, bool value)
 
-set_int
+void set_int(const char* keyName, int value)
 
-set_float
+void set_float(const char* keyName, float value)
 
-set_string
+void set_string(const char* keyName, string value)
