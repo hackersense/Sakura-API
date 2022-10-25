@@ -30,6 +30,8 @@ jump_bug
 
 long_jump
 
+mini_jump
+
 fake_duck
 
 slow_motion
