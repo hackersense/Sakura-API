@@ -1,3 +1,3 @@
-get
+string get(string link)
 
-post
+string post(string link, string params)
