@@ -1,9 +1,9 @@
 register_callback(string callback_name, function())
 
-load_script
+load_script(string name)
 
-unload_script
+unload_script(string name)
 
-print_log
+print_log(string text)
 
-is_chat_open
+bool is_chat_open()
