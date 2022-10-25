@@ -1,25 +1,25 @@
-int get_index
+int get_index()
 
-bool is_dormant
+bool is_dormant()
 
-int get_team
+int get_team()
 
-bool is_alive
+bool is_alive()
 
-vector get_velocity
+vector get_velocity()
 
-vector get_eye_position
+vector get_eye_position()
 
-vector get_hitbox_position
+vector get_hitbox_position()
 
-bool has_helmet
+bool has_helmet()
 
-bool has_heavy_armor
+bool has_heavy_armor()
 
-bool is_scoped
+bool is_scoped()
 
-int get_health
+int get_health()
 
-float get_spawn_time
+float get_spawn_time()
 
-float get_max_desync_delta
+float get_max_desync_delta()
