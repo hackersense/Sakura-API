@@ -6,8 +6,6 @@ string get_ip()
 
 string get_time()
 
-string get_username()
-
 float get_realtime()
 
 float get_curtime()
