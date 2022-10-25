@@ -1,39 +1,39 @@
-get_screen_width
+int get_screen_width()
 
-get_screen_height
+int get_screen_height()
 
-get_mouse_x
+int get_mouse_x()
 
-get_mouse_y
+int get_mouse_y()
 
-mouse_in_region
+bool mouse_in_region()
 
-get_level_name
+string get_level_name()
 
-get_level_name_short
+string get_level_name_short()
 
-get_local_player_index
+int get_local_player_index()
 
-get_map_group_name
+string get_map_group_name()
 
-get_player_for_user_id
+int get_player_for_user_id(int id)
 
-get_player_info
+player_info get_player_info()
 
-get_view_angles
+vector get_view_angles()
 
-is_connected
+bool is_connected()
 
-is_hltv
+bool is_hltv()
 
-is_in_game
+bool is_in_game()
 
-is_paused
+bool is_paused()
 
-is_playing_demo
+bool is_playing_demo()
 
-is_recording_demo
+bool is_recording_demo()
 
-is_taking_screenshot
+bool is_taking_screenshot()
 
-set_view_angles
+void set_view_angles(vector angles)
