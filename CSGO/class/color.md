@@ -1,7 +1,7 @@
-r (red)
+int r (red)
 
-g (green)
+int g (green)
 
-b (blue)
+int b (blue)
 
-a (alpha)
+int a (alpha)
