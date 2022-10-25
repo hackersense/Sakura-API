@@ -1,7 +1,7 @@
-get_local_player
+player get_local_player()
 
-get_player_by_index
+player get_player_by_index(int index)
 
-get_entity_by_class_id
+entity get_entity_by_class_id(int classID)
 
-get_weapon_by_player
+weapon get_weapon_by_player(player player)
