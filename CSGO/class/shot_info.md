@@ -1,17 +1,17 @@
-target_name
+string target_name
 
-result
+string result      // spread, unknown, prediction, occlusion, desync
 
-client_hitbox
+string client_hitbox
 
-server_hitbox
+string server_hitbox
 
-client_damage
+int client_damage
 
-server_damage
+int server_damage
 
-hitchance
+int hitchance
 
-backtrack_ticks
+int backtrack_ticks
 
-aim_point
+vector aim_point
