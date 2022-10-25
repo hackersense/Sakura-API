@@ -1,23 +1,23 @@
-get_framerate
+int get_framerate()
 
-get_ping
+int get_ping()
 
-get_address
+string get_ip()
 
-get_time
+string get_time()
 
-get_username
+string get_username()
 
-get_realtime
+float get_realtime()
 
-get_curtime
+float get_curtime()
 
-get_frametime
+float get_frametime()
 
-get_tickcount
+int get_tickcount()
 
-get_framecount
+int get_framecount()
 
-get_intervalpertick
+float get_intervalpertick()
 
-get_maxclients
+int get_maxclients()
