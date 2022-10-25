@@ -1,11 +1,11 @@
-target_index
+int target_index
 
-is_yaw
+bool is_yaw
 
-before_animation
+float before_animation
 
-current_animation
+float current_animation    // Can be modified
 
-misses
+int misses
 
-shooting
+bool shooting
