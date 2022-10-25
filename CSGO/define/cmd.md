@@ -1,9 +1,9 @@
-get_send_packet
+bool get_send_packet()
 
-set_send_packet
+void set_send_packet(bool sending)
 
-get_choke
+int get_choke()
 
-get_button_state
+bool get_button_state(int button)
 
-set_button_state
+void set_button_state(int button, bool state)
