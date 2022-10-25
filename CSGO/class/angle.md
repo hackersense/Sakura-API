@@ -4,12 +4,12 @@ float yaw
 
 float roll
 
-void length()
+float length()
 
-void length_sqr()
+float length_sqr()
 
 bool is_zero()
 
 bool is_valid()
 
-void normalize()
+float normalize()
