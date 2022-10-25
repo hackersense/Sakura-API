@@ -1,29 +1,29 @@
-x
+float x
 
-y
+float y
 
-z
+float z
 
-length
+float length()
 
-length_sqr
+float length_sqr()
 
-length_2d
+float length_2d()
 
-length_2d_sqr
+float length_2d_sqr()
 
-is_zero
+bool is_zero()
 
-is_valid
+bool is_valid()
 
-zero
+void zero()
 
-dot
+float dot()
 
-dist_to
+float dist_to(vector target)
 
-dist_to_sqr
+float dist_to_sqr(vector target)
 
-cross_product
+vector cross_product(vector target)
 
-normalize
+float normalize()
