@@ -8,7 +8,7 @@ function toInteger(number)
       return math.floor(tonumber(number) or error("Could not cast '" .. tostring(number) .."' to number.'"))
 end
 
-cheat.register_callback("on_paint", function()
+cheat.register_callback("on_createmove", function()
       local time = toInteger(globals.get_curtime() * 3)
       if time ~= lasttime then
             set_clantag_pattern(chocolate[time % #chocolate], chocolate[time % #chocolate])
