@@ -30,8 +30,8 @@ left_hand
 
 right_upper_arm
 
-right_forearm
+right_lower_arm
 
 left_upper_arm
 
-left_forearm
+left_lower_arm
