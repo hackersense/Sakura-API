@@ -1,4 +1,4 @@
-bool is_empty()
+int ammo()
 
 bool can_fire()
 
