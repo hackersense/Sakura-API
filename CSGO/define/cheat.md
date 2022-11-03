@@ -12,7 +12,7 @@ bool should_breaking_lby(cmd usercmd)
 
 bool is_breaking_lby()
 
-void should_breaking_lby(bool breaking)
+void set_breaking_lby(bool breaking)
 
 string get_username()
 
