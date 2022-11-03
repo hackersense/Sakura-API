@@ -24,6 +24,8 @@ float get_spawn_time()
 
 float get_max_desync_delta()
 
+float get_min_desync_delta()
+
 int flags()
 
 float flash_duration()
