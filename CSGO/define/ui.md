@@ -1,31 +1,33 @@
-next_line
+void next_line()
 
-add_check_box
+string add_check_box(string name, bool default = false)
 
-add_combo_box
+string add_combo_box(string name, list labels, int default = 0)
 
-add_slider_int
+string add_slider_int(string name, int min, int max, int default = 0)
 
-add_slider_float
+string add_slider_float(string name, float min, float max, int default = 0)
 
-add_color_picker
+string add_color_picker(name, color value = white)
 
-get_bool
+bool get_bool(string item)
 
-get_int
+int get_int(string item)
 
-get_float
+float get_float(string item)
 
-get_color
+color get_color(string item)
 
-get_key_bind_state
+void set_key_bind_state(key_binds keybind, bool value)
 
-get_key_bind_mode
+int get_key_bind_state(key_binds keybind)
 
-set_bool
+int get_key_bind_mode(key_binds keybind)
 
-set_int
+void set_bool(string item, bool value)
 
-set_float
+void set_int(string item, int value)
 
-set_color
+void set_float(string item, float value)
+
+void set_color(string item, color value)
