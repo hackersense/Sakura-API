@@ -11,4 +11,4 @@ contact us:
 - [Issues](https://github.com/hackersense/Open-Sakura-API/issues)
 - [Pull Requests](https://github.com/hackersense/Open-Sakura-API/pulls)
 
-Developer Team:NinjaMaki & Timeline
+Developer Team:[HackerSense](https://github.com/hackersense)
