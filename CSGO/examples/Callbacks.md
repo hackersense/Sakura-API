@@ -12,10 +12,24 @@ Prediction callback
         
     end)
     
+ ## `Restore Prediction`
+Prediction callback
+
+    cheat.register_callback("on_restoreprediction", function(user_cmd)
+        
+    end)
+    
 ## `CreateMove`
 CreateMove callback
 
     cheat.register_callback("on_createmove", function(user_cmd)
+        
+    end)
+    
+## `Frame Stage`
+Paint callback
+
+    cheat.register_callback("on_framestage", function(stage)
         
     end)
 
