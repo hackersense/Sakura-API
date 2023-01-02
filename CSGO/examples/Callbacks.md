@@ -19,7 +19,7 @@ Prediction callback
         
     end)
     
-## `CreateMove`
+## `Create Move`
 CreateMove callback
 
     cheat.register_callback("on_createmove", function(user_cmd)
@@ -33,14 +33,14 @@ Paint callback
         
     end)
 
-## `PaintTraverse`
+## `Paint Traverse`
 Paint callback
 
     cheat.register_callback("on_paint", function()
         
     end)
     
-## `Draw`
+## `OBS-Bypass Draw`
 Draw callback (image)
 
     cheat.register_callback("on_draw", function()
