@@ -9,7 +9,7 @@ function toInteger(number)
 end
 
 cheat.register_callback("on_createmove", function()
-      local time = toInteger(globals.get_curtime() * 3)
+      local time = toInteger(globals.get_curtime()) * 3
       if time ~= lasttime then
             set_clantag_pattern(chocolate[time % #chocolate], chocolate[time % #chocolate])
       end
