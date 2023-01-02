@@ -1,5 +1,5 @@
 ## `Pre_Prediction`
-Pre_Prediction callback
+PrePrediction callback
 
     cheat.register_callback("on_preprediction", function(user_cmd)
         
@@ -27,7 +27,7 @@ CreateMove callback
     end)
     
 ## `Frame Stage`
-Paint callback
+FrameStage callback
 
     cheat.register_callback("on_framestage", function(stage)
         
