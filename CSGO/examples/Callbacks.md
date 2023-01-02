@@ -34,7 +34,7 @@ FrameStage callback
     end)
 
 ## `Paint Traverse`
-Paint callback
+Paint callback (Will be removed later)
 
     cheat.register_callback("on_paint", function()
         
