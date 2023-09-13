@@ -4,7 +4,7 @@ bool is_yaw
 
 float before_animation
 
-float current_animation
+float current_animation // Allow modification
 
 int misses
 
