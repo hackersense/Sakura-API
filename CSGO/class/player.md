@@ -10,6 +10,8 @@ vector get_velocity()
 
 vector get_eye_position()
 
+vector get_eye_angles()
+
 vector get_hitbox_position()
 
 bool has_helmet()
