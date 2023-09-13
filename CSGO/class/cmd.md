@@ -22,4 +22,8 @@ int mousedx
 
 int mousedy
 
+vector viewanglesbackup
+
+int buttonsbackup
+
 bool predicted
