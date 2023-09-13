@@ -12,7 +12,7 @@ vector get_eye_position()
 
 vector get_eye_angles()
 
-vector get_hitbox_position()
+vector get_hitbox_position(int id)
 
 bool has_helmet()
 
@@ -25,6 +25,8 @@ int get_health()
 float get_spawn_time()
 
 float get_max_desync_delta()
+
+float get_min_desync_delta()
 
 float get_min_desync_delta()
 
