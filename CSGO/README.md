@@ -1,4 +1,4 @@
-# CSGO
+# CSGO (ARCHIVED)
 
 Sakura.cc (Chocolate.me) API documentation, lua scripting and more.
 
