@@ -13,6 +13,11 @@ import nep.timeline.projects.Sakura.utils.control.ChatUtils;
         type = ModuleType.Misc
 )
 public class TestModule extends ModuleCore {
+    // Choose between Module Register
+    // public TestModule() {
+    //     super("Test Module", ModuleType.Misc);
+    // }
+    
     @Override
     public void onToggle() {
         boolean enabled = getState();

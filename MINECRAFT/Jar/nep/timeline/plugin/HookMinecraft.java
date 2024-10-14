@@ -20,7 +20,7 @@ public class HookMinecraft {
     /**
      * This method will execute before runTick execute, and block runTick execute.
      * @param mc is target class's instance
-     * @param isGamePaused is private field for Minecraft class
+     * @param isGamePaused is private field for Minecraft class (Minecraft->isGamePaused)
      */
     //@Advice.OnMethodEnter(skipOn = Advice.OnNonDefaultValue.class)
     //public static boolean onEnter(@Advice.This Minecraft mc, @Advice.FieldValue("isGamePaused") boolean isGamePaused) {
